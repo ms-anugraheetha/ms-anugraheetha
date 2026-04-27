@@ -10,7 +10,7 @@ CS student · Building on the web · Learning React + Vite
 
 ## About
 
-I'm a CS student passionate about building things on the web — from interactive UIs to backend APIs. I enjoy exploring how things work under the hood and applying that curiosity to real projects.
+I'm a CS student passionate about building things on the web - from interactive UIs to backend APIs. I enjoy exploring how things work under the hood and applying that curiosity to real projects.
 
 ---
 
@@ -28,7 +28,7 @@ I'm a CS student passionate about building things on the web — from interactiv
 
 ## Currently
 
-⚡ Learning React + Vite — building a web app from scratch  
+⚡ Learning React + Vite - building a web app from scratch  
 🌱 Sharpening full-stack fundamentals with Node.js + SQL
 
 ---
