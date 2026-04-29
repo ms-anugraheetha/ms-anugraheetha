@@ -33,8 +33,3 @@ I'm a CS student passionate about building things on the web - from interactive 
 
 ---
 
-## GitHub stats
-
-![Anugraheetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms-anugraheetha&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
