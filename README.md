@@ -1,7 +1,4 @@
-# Anugrahetha's Portfolio
-
-## About Me
-
+# Anugraheetha Bin Saj
 I'm a full-stack developer and creative technologist passionate about building intelligent systems and delightful user experiences. I specialize in creating end-to-end applications that combine machine learning, backend systems, modern frontend frameworks, and thoughtful UX design.
 
 **Skills:** React.js | FastAPI | Python | JavaScript | Machine Learning | Full-Stack Development | UI/UX Design | Vite | SQLite
@@ -203,10 +200,7 @@ I'm passionate about:
 
 ---
 
-## 📄 License & Background
 
-These projects were developed as part of my bachelor thesis and personal learning journey. Each represents a different aspect of my growth as a developer—from ML systems to thoughtful UX design.
 
----
 
 *Last Updated: May 2026 | Always learning, always building* ✨
