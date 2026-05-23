@@ -193,6 +193,9 @@ I'm passionate about:
 ## 📞 Get In Touch
 
 - **GitHub:** [@ms-anugraheetha](https://github.com/ms-anugraheetha)
+- **LinkedIn:** Anugraheetha Bin Saj
+- **Mail:** anugraheetha.bs@gmail.com
+- **Phone:** +37128021451
 - **Portfolio Projects:** 
   - [Travel Destination Recommendation System](https://github.com/ms-anugraheetha/travel_destination_recommendation_system)
   - [Micro-Adventure Generator](https://github.com/ms-anugraheetha/Micro-adventure-generator)
