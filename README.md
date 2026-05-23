@@ -19,7 +19,7 @@ I'm a full-stack developer and creative technologist passionate about building i
 
 - **Passwordless Authentication** – Simple, frictionless account creation
 - **Smart Onboarding** – Personalized flow for new vs. returning users
-- **User Preference Profiling** – Gender, party composition, interests, travel month
+- **User Preference Profiling** – Gender, group composition, interests, travel month
 - **ML-Powered Recommendations** – Top-5 destination suggestions with predicted ratings
 - **Ridge Regression + Collaborative Filtering** – Hybrid approach for accuracy
 - **Transparent Explanations** – Clear reasons for each recommendation
@@ -53,8 +53,30 @@ I'm a full-stack developer and creative technologist passionate about building i
 - Integrated collaborative filtering with demographic-based models
 
 ---
+### 2. UniMoney – Expense Tracking System for University Students
 
-### 2. Cozy Micro-Adventures – Interactive React App
+**A dedicated finance management app helping students track spending and budgeting**
+
+**Live Demo:** [uni-money-two.vercel.app](https://uni-money-two.vercel.app/)
+
+**GitHub:** [ms-anugraheetha/UniMoney](https://github.com/ms-anugraheetha/UniMoney)
+
+#### 🎯 Key Features
+
+- Personal expense tracking
+- Budget management and alerts
+- Spending analytics and insights
+- Category-based expense organization
+- User-friendly dashboard
+
+#### 💻 Tech Stack
+
+- Frontend: React.js
+- Deployment: Vercel
+- Language: JavaScript
+
+---
+### 3. Cozy Micro-Adventures – Interactive React App
 
 **A calming, micro-interaction–driven web experience encouraging intentional pauses and grounding in everyday life**
 
@@ -99,29 +121,7 @@ I'm a full-stack developer and creative technologist passionate about building i
 - **Performance:** Optimizing with modern build tools (Vite)
 - **Animations:** Balancing visual delight with accessibility
 
----
 
-### 3. UniMoney – Expense Tracking System for University Students
-
-**A dedicated finance management app helping students track spending and budgeting**
-
-**Live Demo:** [uni-money-two.vercel.app](https://uni-money-two.vercel.app/)
-
-**GitHub:** [ms-anugraheetha/UniMoney](https://github.com/ms-anugraheetha/UniMoney)
-
-#### 🎯 Key Features
-
-- Personal expense tracking
-- Budget management and alerts
-- Spending analytics and insights
-- Category-based expense organization
-- User-friendly dashboard
-
-#### 💻 Tech Stack
-
-- Frontend: React.js
-- Deployment: Vercel
-- Language: JavaScript
 
 ---
 
@@ -198,8 +198,9 @@ I'm passionate about:
 - **Phone:** +37128021451
 - **Portfolio Projects:** 
   - [Travel Destination Recommendation System](https://github.com/ms-anugraheetha/travel_destination_recommendation_system)
-  - [Micro-Adventure Generator](https://github.com/ms-anugraheetha/Micro-adventure-generator)
   - [UniMoney Expense Tracker](https://github.com/ms-anugraheetha/UniMoney)
+  - [Micro-Adventure Generator](https://github.com/ms-anugraheetha/Micro-adventure-generator)
+  
 
 ---
 
