@@ -1,210 +1,44 @@
-# Anugraheetha Bin Saj
-I'm a full-stack developer and creative technologist passionate about building intelligent systems and delightful user experiences. I specialize in creating end-to-end applications that combine machine learning, backend systems, modern frontend frameworks, and thoughtful UX design.
+Hi, I’m Anugraheetha 👋
 
-**Skills:** React.js | FastAPI | Python | JavaScript | Machine Learning | Full-Stack Development | UI/UX Design | Vite | SQLite
+Final-year Computer Science student at Riga Technical University.
 
----
+I enjoy turning ideas into products, learning by building, and exploring the intersection of software engineering, AI, and product development.
 
-## 🚀 Featured Projects
+🛠 Tech Stack
 
-### 1. Travel Destination Recommendation System
+Frontend: React, JavaScript, TypeScript, Vite
+Backend: FastAPI, Python, REST APIs
+Database: SQLite, PostgreSQL
+AI/ML: Ridge Regression, Collaborative Filtering
+Tools: Git, GitHub, Vercel, Render
 
-**An intelligent full-stack recommendation engine for personalized travel experiences across India**
+🚀 Featured Projects
 
-**Live Demo:** [travel-destination-recommendation-s-ten.vercel.app](https://travel-destination-recommendation-s-ten.vercel.app/)
+Travel Destination Recommendation System
+ML-powered recommendation platform built with React, FastAPI, and Python.
 
-**GitHub:** [ms-anugraheetha/travel_destination_recommendation_system](https://github.com/ms-anugraheetha/travel_destination_recommendation_system)
+🔗 Demo: https://travel-destination-recommendation-s-ten.vercel.app
+🔗 GitHub: https://github.com/ms-anugraheetha/travel_destination_recommendation_system
 
-#### 🎯 Key Features
+UniMoney
+Expense tracking application designed for university students.
 
-- **Passwordless Authentication** – Simple, frictionless account creation
-- **Smart Onboarding** – Personalized flow for new vs. returning users
-- **User Preference Profiling** – Gender, group composition, interests, travel month
-- **ML-Powered Recommendations** – Top-5 destination suggestions with predicted ratings
-- **Ridge Regression + Collaborative Filtering** – Hybrid approach for accuracy
-- **Transparent Explanations** – Clear reasons for each recommendation
-- **Feedback Loop** – User ratings improve future model iterations
-- **Persistent Storage** – Database-backed user accounts and preferences
+🔗 Demo: https://uni-money-two.vercel.app
+🔗 GitHub: https://github.com/ms-anugraheetha/UniMoney
 
-#### 💻 Tech Stack
+Cozy Micro-Adventures
+A calming React experience focused on thoughtful interactions and user experience.
 
-| Component | Technology |
-|-----------|-----------|
-| Frontend | React.js |
-| Backend | FastAPI (Python) |
-| Database | SQLite |
-| ML Models | Ridge Regression, Collaborative Filtering |
-| Deployment | Vercel (Frontend), Render (Backend) |
+🔗 Demo: https://random-adventure-generator.vercel.app
+🔗 GitHub: https://github.com/ms-anugraheetha/Micro-adventure-generator
 
-#### 🏗️ Architecture Highlights
+🌱 Currently
 
-- **Ridge Regression:** Preference-based predictions on destination features
-- **Collaborative Filtering:** Leverages user history for returning users
-- **RESTful API:** Clean, well-documented FastAPI endpoints
-- **State Management:** Efficient React component state handling
-- **Environment Config:** Dynamic API URL for dev/prod environments
+* Building a Python Confidence Coach to help beginner and intermediate Python learners gain confidence through practice and feedback
+* Exploring software engineering, AI, and product development
+* Looking for opportunities where I can keep learning, building, and contributing
 
-#### 📊 Impact & Learning
+📫 Connect
 
-- Built production-grade recommendation system with ML at its core
-- Designed end-to-end user flows for different user types
-- Implemented persistent database architecture for scalability
-- Deployed independently on Vercel and Render with CI/CD practices
-- Integrated collaborative filtering with demographic-based models
-
----
-### 2. UniMoney – Expense Tracking System for University Students
-
-**A dedicated finance management app helping students track spending and budgeting**
-
-**Live Demo:** [uni-money-two.vercel.app](https://uni-money-two.vercel.app/)
-
-**GitHub:** [ms-anugraheetha/UniMoney](https://github.com/ms-anugraheetha/UniMoney)
-
-#### 🎯 Key Features
-
-- Personal expense tracking
-- Budget management and alerts
-- Spending analytics and insights
-- Category-based expense organization
-- User-friendly dashboard
-
-#### 💻 Tech Stack
-
-- Frontend: React.js
-- Deployment: Vercel
-- Language: JavaScript
-
----
-### 3. Cozy Micro-Adventures – Interactive React App
-
-**A calming, micro-interaction–driven web experience encouraging intentional pauses and grounding in everyday life**
-
-**Live Demo:** [random-adventure-generator.vercel.app](https://random-adventure-generator.vercel.app/)
-
-**GitHub:** [ms-anugraheetha/Micro-adventure-generator](https://github.com/ms-anugraheetha/Micro-adventure-generator)
-
-#### 🌟 Key Features
-
-- **Randomized Prompts** – Gentle, personalized low-effort adventure suggestions
-- **Card-Based UI** – Clean, intuitive card presentation for each adventure
-- **State-Driven Interactions** – Smooth, responsive UI transitions
-- **Calm Visual Design** – Minimal aesthetic focused on user comfort
-- **Soft Animations** – Custom CSS + Framer Motion for delightful interactions
-- **Fully Responsive** – Mobile-first approach across all devices
-- **Microcopy Excellence** – Carefully crafted prompt text for emotional resonance
-
-#### 💻 Tech Stack
-
-| Component | Technology |
-|-----------|-----------|
-| Framework | React.js |
-| Build Tool | Vite |
-| Language | JavaScript (ES6+) |
-| Styling | CSS3 + Framer Motion |
-| Deployment | Vercel |
-
-#### 🎨 UX/Design Approach
-
-- **Micro-interactions:** Button states, card reveals, smooth transitions
-- **Psychology-Driven:** Prompts designed to reduce decision fatigue
-- **Accessibility:** Semantic HTML, keyboard navigation, clear contrast
-- **Performance:** Vite optimization for lightning-fast load times
-- **Reusable Components:** Modular React structure for maintainability
-
-#### 📚 Learning Outcomes
-
-- **UI Psychology:** Understanding user behavior and emotional design
-- **Component Architecture:** Structuring reusable, maintainable React components
-- **State Management:** Managing dynamic content with React hooks
-- **Microcopy:** Writing effective, empathetic UX copy
-- **Performance:** Optimizing with modern build tools (Vite)
-- **Animations:** Balancing visual delight with accessibility
-
-
-
----
-
-## 🎓 What I Bring to the Table
-
-### Full-Stack Capabilities
-- End-to-end application development from database to UI
-- Proficient in both frontend (React, JavaScript) and backend (FastAPI, Python)
-- Experience with ML integration in production systems
-
-### User-Centric Design
-- Deep focus on UX psychology and microcopy
-- Creating accessible, responsive interfaces
-- Designing calm, intentional user experiences
-- Understanding diverse user journeys (new vs. returning users)
-
-### Technical Excellence
-- Clean, maintainable code architecture
-- Performance optimization (Vite, React best practices)
-- Database design and management (SQLite, relational models)
-- API design and implementation (REST, FastAPI)
-- State management and component patterns
-
-### Problem-Solving
-- Implementing recommendation algorithms (Ridge Regression, Collaborative Filtering)
-- Designing feedback loops for continuous improvement
-- Solving complex UX challenges with thoughtful solutions
-- Balancing technical constraints with user needs
-
----
-
-## 🔮 Future Vision
-
-I'm passionate about:
-- **AI-Powered UX:** Building intelligent interfaces that anticipate user needs
-- **Ethical Design:** Creating technology that respects user time and mental space
-- **Full-Stack ML:** Deploying ML models that make real-world impact
-- **Open-Source:** Contributing to and learning from the developer community
-- **Scalable Systems:** Growing applications from prototype to production
-
----
-
-## 📊 Portfolio Stats
-
-- **3+ Major Projects** spanning recommendation systems, UX design, and fintech
-- **Full-Stack Development** across React, FastAPI, Python, JavaScript
-- **Machine Learning Integration** in production systems
-- **Live Deployed Applications** on Vercel and Render
-- **Bachelor Thesis Project** (Travel Recommendation System)
-
----
-
-## 🛠 Technical Skills
-
-**Languages:** Python, JavaScript (ES6+), SQL
-
-**Frontend:** React.js, Vite, CSS3, Framer Motion, Responsive Design
-
-**Backend:** FastAPI, RESTful APIs, Database Design
-
-**Machine Learning:** Ridge Regression, Collaborative Filtering, Data Analysis
-
-**Tools & Platforms:** Git, GitHub, Vercel, Render, SQLite, npm
-
-**Design:** UI/UX Principles, Microcopy, Accessibility, User Psychology
-
----
-
-## 📞 Get In Touch
-
-- **GitHub:** [@ms-anugraheetha](https://github.com/ms-anugraheetha)
-- **LinkedIn:** Anugraheetha Bin Saj
-- **Mail:** anugraheetha.bs@gmail.com
-- **Phone:** +37128021451
-- **Portfolio Projects:** 
-  - [Travel Destination Recommendation System](https://github.com/ms-anugraheetha/travel_destination_recommendation_system)
-  - [UniMoney Expense Tracker](https://github.com/ms-anugraheetha/UniMoney)
-  - [Micro-Adventure Generator](https://github.com/ms-anugraheetha/Micro-adventure-generator)
-  
-
----
-
-
-
-
-*Last Updated: May 2026 | Always learning, always building* ✨
+GitHub: https://github.com/ms-anugraheetha
+LinkedIn: linkedin.com/in/anugraheetha-bin-saj
