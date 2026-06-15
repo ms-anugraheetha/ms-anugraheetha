@@ -1,6 +1,6 @@
 Hi, I’m Anugraheetha 👋
 
-Final-year Computer Science student at Riga Technical University.
+Computer Science student at Riga Technical University.
 
 I enjoy turning ideas into products, learning by building, and exploring the intersection of software engineering, AI, and product development.
 
