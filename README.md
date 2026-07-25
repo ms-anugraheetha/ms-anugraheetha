@@ -2,7 +2,7 @@ Hi, I’m Anugraheetha 👋
 
 I enjoy turning ideas into products, learning by building, and exploring the intersection of software engineering, AI, and product development.
 
- Tech Stack
+ ## Tech Stack:
 
 Frontend: React, JavaScript, TypeScript, Vite
 Backend: FastAPI, Python, REST APIs
@@ -10,7 +10,7 @@ Database: SQLite, PostgreSQL
 AI/ML: Ridge Regression, Collaborative Filtering
 Tools: Git, GitHub, Vercel, Render
 
- Featured Projects
+## Featured Projects:
 
 Travel Destination Recommendation System
 ML-powered recommendation platform built with React, FastAPI, and Python.
@@ -30,13 +30,13 @@ A calming React experience focused on thoughtful interactions and user experienc
 🔗 Demo: https://random-adventure-generator.vercel.app
 🔗 GitHub: https://github.com/ms-anugraheetha/Micro-adventure-generator
 
- Currently
+## Currently:
 
 * Building a Python Confidence Coach to help beginner and intermediate Python learners gain confidence through practice and feedback
 * Exploring software engineering, AI, and product development
 * Looking for opportunities where I can keep learning, building, and contributing
 
- Connect
+## Connect:
 
 GitHub: https://github.com/ms-anugraheetha
 LinkedIn: linkedin.com/in/anugraheetha-bin-saj
