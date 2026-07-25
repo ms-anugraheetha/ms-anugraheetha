@@ -1,7 +1,5 @@
 Hi, I’m Anugraheetha 👋
 
-Computer Science student at Riga Technical University.
-
 I enjoy turning ideas into products, learning by building, and exploring the intersection of software engineering, AI, and product development.
 
 🛠 Tech Stack
